@@ -1,0 +1,11 @@
+Setting up watches. Beware: since -r was given, this may take a while!
+Watches established.
+{"watched_filename": "/home/yushi1007/Development/", "event_names": "CREATE,ISDIR", "event_filename": "my_new_directory"}
+{"watched_filename": "/home/yushi1007/Development/my_new_directory/", "event_names": "CREATE", "event_filename": "README.md"}
+{"watched_filename": "/home/yushi1007/Development/my_new_directory/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "README.md"}
+{"watched_filename": "/home/yushi1007/Development/my_new_directory/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "README.md"}
+{"watched_filename": "/home/yushi1007/Development/my_new_directory/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "README.md"}
+{"watched_filename": "/home/yushi1007/Development/my_new_directory/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "README.md"}
+{"watched_filename": "/home/yushi1007/Development/my_new_directory/", "event_names": "CREATE,ISDIR", "event_filename": ".git"}
+{"watched_filename": "/home/yushi1007/Development/my_new_directory/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "README.md"}
+{"watched_filename": "/home/yushi1007/Development/my_new_directory/", "event_names": "CLOSE_WRITE,CLOSE", "event_filename": "README.md"}

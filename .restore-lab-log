@@ -1,0 +1,17 @@
+Setting up dir for sandbox
+Sandbox Environment Created
+Latest WIP branch is wip
+Pulling from branch
+From github.com:yushi1007/learn-co-sandbox
+ * branch            wip        -> FETCH_HEAD
+Updating 9794f7c..9902046
+Fast-forward
+Squash commit -- not updating HEAD
+ example_file.rb | 5 +++++
+ hello_new_file  | 1 +
+ 2 files changed, 6 insertions(+)
+ create mode 100644 example_file.rb
+ create mode 100644 hello_new_file
+Resetting HEAD
+Finding old WIP branches to delete
+Finished deleting old wip branches
